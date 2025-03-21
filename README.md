@@ -1,1 +1,1 @@
-# dev-notes
+# Custom reusable ripple effect
